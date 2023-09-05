@@ -1,6 +1,6 @@
 # Module 21 - Deep Learning Challenge
 
-## Files Submittes
+## Files Submitted
 - /Reports/AlphabetSoupCharity.h5
 - /Reports/AlphabetSoupCharity_Optimization.h5
 - /Reports/Deep_Learning_Report.md
