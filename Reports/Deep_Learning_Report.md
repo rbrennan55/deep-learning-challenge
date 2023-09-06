@@ -1,7 +1,5 @@
 # Module 21 - Deep Learning Challenge Report
 
-The report should contain the following:
-
 ### Overview: Explain the purpose of this analysis.
 
 ### Results: Using bulleted lists and images to support your answers, address the following questions:
