@@ -6,8 +6,8 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 ## Data Preprocessing
 
 - What variable(s) are the target(s) for your model?
-    The 'IS_SUCCESSFUL' column from application_df is the target variable
-- 
+            - The 'IS_SUCCESSFUL' column from application_df is the target variable
+  
 - What variable(s) are the features for your model?
 - What variable(s) should be removed from the input data because they are neither targets nor features?
 
