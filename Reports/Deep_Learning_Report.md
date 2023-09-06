@@ -6,7 +6,7 @@ The report should contain the following:
 
 ### Results: Using bulleted lists and images to support your answers, address the following questions:
 
-##Data Preprocessing
+## Data Preprocessing
 
 - What variable(s) are the target(s) for your model?
 - What variable(s) are the features for your model?
