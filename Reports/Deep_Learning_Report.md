@@ -47,4 +47,4 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 ### Summary:
 
-in Summary adding extra hidden layers with extra neron nodes did not increase the performance by any measurable means.  Scrubbing more data may increase the performance, but the increase of hidden layers and modes did not make an impact.
+In Summary adding extra hidden layers with extra neron nodes did not increase the performance by any measurable means.  Scrubbing more data may increase the performance, but the increase of hidden layers and modes did not make an impact.
