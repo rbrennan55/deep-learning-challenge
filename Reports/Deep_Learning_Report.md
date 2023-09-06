@@ -30,14 +30,19 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
         25 epoch
 
     - 2nd attempt: 3 hidden layers plus an outer layer, 
-        layer 1: 20 neurons - relu activation
+        layer 1: 30 neurons - relu activation
+        layer 2: 20 neurons - relu activation
         layer 2: 10 neurons - relu activation
-        layer 2: 5 neurons - relu activation
         Outer layer: 1 unit - sigmoid activation & adam optimizers as the complier.
         50 epoch
 
 
 - Were you able to achieve the target model performance?
+
+  No, the target model performance was not met. The highest score acheived was 73%
+  
 - What steps did you take in your attempts to increase model performance?
+
+  Attempts were made to add a hidden layer and increase neuron nodes.
 
 ### Summary:
