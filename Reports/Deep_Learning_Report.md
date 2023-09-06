@@ -29,7 +29,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
         Outer layer: 1 unit - sigmoid activation & adam optimizers as the complier.
         25 epoch
 
-    - 2nd attempt: 3 hidden layers plus an outer layer, 
+    - 2nd attempt(Optomized): 3 hidden layers plus an outer layer, 
         layer 1: 30 neurons - relu activation
         layer 2: 20 neurons - relu activation
         layer 2: 10 neurons - relu activation
@@ -46,3 +46,5 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
   Attempts were made to add a hidden layer and increase neuron nodes.
 
 ### Summary:
+
+in Summary adding extra hidden layers with extra neron nodes did not increase the performance by any measurable means.  Scrubbing more data may increase the performance, but the increase of hidden layers and modes did not make an impact.
